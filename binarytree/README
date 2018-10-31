@@ -1,0 +1,29 @@
+/** 
+ * @brief Instructions to compile and run code.
+ * @author Jennifer Teissler
+ */
+
+To compile all code:
+
+    $ make
+
+To compile and run:
+
+    $ make run
+
+To remove compiled files:
+
+    $ make clean
+
+To run the program:
+
+    $ ./main
+
+To run the program with text file input:
+
+    $ ./main [textfile]
+
+To run the program with command line input:
+
+    $ ./main [ARGS...]
+
